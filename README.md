@@ -1,7 +1,7 @@
 # USB_TO_SERIAL_RELAY
 
 <h2>功能：</h2>
-利用 Serial 控制 Relay 讓中華電信的數據機重新開機
+利用 Serial 控制 Relay 讓中華電信的數據機斷電一段時間，再重新復電
 <br>
 <h2>作者：</h2>
     羽山秋人 ( https://3wa.tw )
@@ -12,7 +12,7 @@
 <br>
 <br>
 <h2>動機：</h2>
-由於最近中華的小烏龜三不五十機，只能斷電再開機才能回復正常，USB 轉 Serial 接 Relay，利用程式來切斷電源。
+由於最近中華的小烏龜三不五十當機，只能斷電再開機才能回復正常，USB 轉 Serial 接 Relay，利用程式來切斷電源跟回復電源。
 <br>
 <br>
 <img src="screenshot/s1.png">
