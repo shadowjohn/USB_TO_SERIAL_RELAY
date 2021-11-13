@@ -41,6 +41,11 @@
 <h2>使用方法：</h2>
     python serialOnOff.py<br>
     python serialOnOff.py [Com Port] [on/off] [millisecond]<br>
+    例如：<br>
+    python serialOnOff.py com7 on 15000<br>
+    
+    如果在 Linux 下<br>
+    python serialOnOff.py /dev/ttyUSB0 on 15000<br>
 <br>
 <h2>詳細說明：</h2>
     <a href="https://3wa.tw/blog/blog.php?id=1942">https://3wa.tw/blog/blog.php?id=1942</a>    
