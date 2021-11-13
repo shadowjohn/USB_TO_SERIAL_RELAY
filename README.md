@@ -20,6 +20,11 @@
     完成的圖
 </center>
 <br>
+<img src="screenshot/s3.png">
+<center>
+    電路圖
+</center>
+<br>
 <img src="screenshot/s2.png">
 <center>
     使用方式
